@@ -41,7 +41,7 @@ I develop Bayesian and computational methods for high-dimensional and structured
 
 - **AMO-GP** — Multimodal neuroimaging model · *(Preprint coming soon)* · [Code](https://github.com/pritamdey/AMOGP)  
 
-See the full list of publications [here](https://pritamdey.github.io/publications.html), or explore my repositories.
+See the full list of research projects [here](https://pritamdey.github.io/research.html), or explore my repositories.
 
 ---
 
