@@ -18,10 +18,11 @@ Texas A&M University
 
 ## 📊 Selected Projects
 
-- **[JASPER](https://arxiv.org/abs/2604.18742)** — Bayesian modeling for spatial transcriptomics  
-- **[TAVIE-SSG](https://arxiv.org/abs/2504.05431)** — Tangent approximation variational inference  
-- **[VaSST](https://arxiv.org/abs/2602.23561)** — Variational symbolic regression  
-- **AMO-GP** — Multimodal neuroimaging models *(preprint coming soon)*
+- **JASPER** — Bayesian modeling for spatial transcriptomics: [arXiv preprint](https://arxiv.org/abs/2604.18742); *(Code repo coming soon!)*  
+- **TAVIE-SSG** — Tangent approximation variational inference: [arXiv preprint](https://arxiv.org/abs/2504.05431); [Code](https://github.com/Roy-SR-007/TAVIE-SSG) 
+- **HierBOSSS** — Bayesian hierarchical framework for symbolic regression: [arXiv preprint](https://arxiv.org/abs/2509.19710); [Code](https://github.com/Roy-SR-007/HierBOSSS)   
+- **VaSST** — Variational symbolic regression: [arXiv preprint](https://arxiv.org/abs/2602.23561); [Code](https://github.com/Roy-SR-007/VaSST)  
+- **AMO-GP** — Multimodal neuroimaging model: *(preprint coming soon)*; [Code](https://github.com/pritamdey/AMOGP) 
 
 See full list of **publications** at [here](https://pritamdey.github.io/publications.html) or feel free to explore my repositories!  
 
