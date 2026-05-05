@@ -20,14 +20,9 @@ I develop Bayesian and computational methods for high-dimensional and structured
 
 ## 🔬 Research Areas
 
-- Bayesian statistics  
-- Variational inference  
-- Spatial transcriptomics  
-- Neuroimaging  
-- Symbolic regression  
-- Multi-omics integration  
-
----
+<p align="center">
+  <img src="https://pritamdey.github.io/assets/wordcloud.png" width="600">
+</p>
 
 ## 📊 Selected Projects
 
@@ -42,8 +37,6 @@ I develop Bayesian and computational methods for high-dimensional and structured
 - **AMO-GP** — Multimodal neuroimaging model · *(Preprint coming soon)* · [Code](https://github.com/pritamdey/AMOGP)  
 
 See the full list of research projects [here](https://pritamdey.github.io/research.html), or explore my repositories.
-
----
 
 ## 🧠 Current Interests
 
