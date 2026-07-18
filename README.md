@@ -30,9 +30,9 @@ I develop Bayesian and computational methods for high-dimensional and structured
 
 - **TAVIE-SSG** — Tangent approximation variational inference · [arXiv](https://arxiv.org/abs/2504.05431) · [Code](https://github.com/Roy-SR-007/__TAVIE-SSG__)  
 
-- **HierBOSSS** — Hierarchical Bayesian framework for symbolic regression · [arXiv](https://arxiv.org/abs/2509.19710) · [Code](https://github.com/Roy-SR-007/HierBOSSS)  
+- **BayeSym𝕏** — Bayesian Symbolic regression forests for e𝕏pression discovery · [arXiv](https://arxiv.org/abs/2509.19710) · [Code](https://github.com/ProbabilisticSR/BayeSymX)  
 
-- **VaSST** — Variational symbolic regression · [arXiv](https://arxiv.org/abs/2602.23561) · [Code](https://github.com/Roy-SR-007/VaSST)  
+- **VaSST** — Variational symbolic regression · [arXiv](https://arxiv.org/abs/2602.23561) · [Code](https://github.com/ProbabilisticSR/VaSST)  
 
 - **AMO-GP** — Multimodal neuroimaging model · *(Preprint coming soon)* · [Code](https://github.com/pritamdey/AMOGP)  
 
