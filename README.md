@@ -2,7 +2,7 @@
 
 # Pritam Dey
 
-Postdoctoral Research Associate  
+Visiting Assistant Professor  
 Department of Statistics, Texas A&M University  
 
 _Statistical science · Bayesian methods · Scientific machine learning_  
