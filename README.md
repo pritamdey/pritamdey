@@ -28,7 +28,7 @@ I develop Bayesian and computational methods for high-dimensional and structured
 
 - **JASPER** — Bayesian modeling for spatial transcriptomics · [arXiv](https://arxiv.org/abs/2604.18742) · [Code](https://github.com/pritamdey/pyJASPER)  
 
-- **TAVIE-SSG** — Tangent approximation variational inference · [arXiv](https://arxiv.org/abs/2504.05431) · [Code](https://github.com/Roy-SR-007/__TAVIE-SSG__)  
+- **TAVIE-SSG** — Tangent approximation variational inference · [arXiv](https://arxiv.org/abs/2504.05431) · [Code](https://github.com/Roy-SR-007/TAVIE-SSG)  
 
 - **HierBOSSS** — Hierarchical Bayesian Operator-induced Symbolic regression forests for Structural discovery of Symbolic expressions · [arXiv](https://arxiv.org/abs/2509.19710) · [Code](https://github.com/ProbabilisticSR/HierBOSSS)  
 
