@@ -34,7 +34,7 @@ I develop Bayesian and computational methods for high-dimensional and structured
 
 - **VaSST** — Variational symbolic regression · [PMLR](https://proceedings.mlr.press/v337/roy26a.html) · [Code](https://github.com/ProbabilisticSR/VaSST)  
 
-- **AMO-GP** — Multimodal neuroimaging model · *(Preprint coming soon)* · [Code](https://github.com/pritamdey/AMOGP)  
+- **AMO-GP** — Multimodal neuroimaging model · [arXiv](https://arxiv.org/abs/2609.26867) · [Code](https://github.com/pritamdey/AMOGP)  
 
 See the full list of research projects [here](https://pritamdey.github.io/research.html), or explore my repositories.
 
